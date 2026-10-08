@@ -5,7 +5,8 @@ This repository is designed as a hackathon-ready prototype for a unified parser 
 
 ## Live Demo
 
-Deployment link: [Add your deployment URL here](#)
+Deployment link: frontend:https://sanjana20052009.github.io/ParseIQ/#demo(#)
+backend:https://parseiq.onrender.com/
 
 ---
 
